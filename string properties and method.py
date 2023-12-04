@@ -6,6 +6,7 @@ print(a.split())
 x = "anurag is very good guy"
 print(x.split())
 print(x.split("a"))
+print('hello python')
 
 
 
